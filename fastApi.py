@@ -21,7 +21,7 @@ from scipy import spatial
 
 app = FastAPI()
 
-openai.api_key = "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"
+openai.api_key = "#add-your-key"
 EMBEDDING_MODEL = "text-embedding-ada-002"
 GPT_MODEL = "gpt-3.5-turbo"
 
